@@ -1,2 +1,2 @@
 # Documentation
-[hypixel-api-reborn.stavzdev.xyz](https://hypixel-api-reborn.stavzdev.xyz/#/)
+[hypixel.stavzdev.xyz](hypixel.stavzdev.xyz)
