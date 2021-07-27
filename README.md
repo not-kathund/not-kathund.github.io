@@ -1,2 +1,2 @@
 # Documentation
-[hypixel.stavzdev.xyz](https://hypixel.stavzdev.xyz)
+[hypixel.stavzdev.xyz](https://hypixel.stavzdev.me)
