@@ -1,2 +1,2 @@
 # Documentation
-[hypixel.stavzdev.xyz](https://hypixel.stavzdev.me)
+https://hypixel-api-reborn.github.io/#/
