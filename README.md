@@ -1,2 +1,3 @@
 # Documentation
-https://hypixel-api-reborn.github.io/#/
+
+https://not-kathund.github.io/#/
